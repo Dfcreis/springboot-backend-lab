@@ -2,7 +2,7 @@ package io.github.Dfcreis.estudosAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
+
 
 
 @SpringBootApplication//Anotação para indicar que esta classe é a classe principal de configuração do Spring Boot,
